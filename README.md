@@ -1,27 +1,93 @@
-<h1 align="center">Hi 👋, I'm Aikon</h1>
+<div align="center">
+    <h1>Hello, I am Aikon</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
+    <br/><br/>
+  <pr>
+        eSports Athlete x Developer x Content Creator<br>
+        Colombo, Sri Lanka<br>
+  </pr>
+    <div>
+        <a href="https://www.twitch.tv/aikonftw" target="_blank"><img alt="Twitch"
+                src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
+        <a href="https://www.youtube.com/aikonstreaming" target="_blank"><img alt="YouTube"
+                src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+        <a href="https://www.tiktok.com/@aikonftw"><img alt="TikTok"
+                src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
+        <a href="https://www.facebook.com/A1KONNN/"><img alt="FaceBook"
+                src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+        <a href="mailto:aikon.creator@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        <a href="https://discord.gg/KV3RqUMezN" target="_blank"><img alt="Discord"
+                src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    </div>
+</div>
 
-![](https://images-ext-1.discordapp.net/external/UCBEjylG_Kq1_i3Lf7w5lSqnRi9sl7GXAW8W16rM0AM/https/media.discordapp.net/attachments/702436021186330684/890109629772755004/Dis_Banner.png)
+<div>
+    <div>
+        <h2><img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
+            What I'm up to</h2>
+        <ul>
+            <li> 👨🏻‍💻 I'm currently learning TypeScript ✍🏻</li>
+            <li>📫 How to reach me: <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
+                <a href="mailto:aikon.creator@gmail.com" target="_blank">aikon.creator@gmail.com</a></li>
+            <li>👀 Take a look at <a href="https://smnsanuth.in/" target="_blank">My Fiverr Profile</a></li>
+        </ul>
+    </div>
+    <div>
+        <h2>🧰 Languages and Tools</h2>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,c,java,lua,vscode,html,css,ai,ps" />
+          </a>
+        </p>
+    </div>
+    <div>
+        <h2><img align="center" width="35"
+                src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
+            Repositories</h2>
+        <p align="center">
+            <a href="https://github.com/aromalanil/whatsend">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=dark" /></a>
+            <a href="https://github.com/aromalanil/get-ascii-image">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=dark" /></a>
+            <a href="https://github.com/aromalanil/markitdown">
+                <img
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=markitdown&theme=dark" /></a>
+            <a href="https://github.com/aromalanil/unchat_frontend">
+                <img
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=unchat_frontend&theme=dark" /></a>
+        </p>
+    </div>
+    <br />
+    <div>
+        <h2>⏱ My Stats
+        </h2>
+    </div>
+    <br />
+    <div>
+        <details>
+            <summary>
+                :octocat: Github Stats
+            </summary>
+            <br />
+            <p align="center">
+                <img height="160" alt="Sanuth's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=aikonftw&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+                <img alt="Sanuth's Github Stats" height="160"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikonftw&hide=assembly&layout=compact&theme=dark" />
+            </p>
+        </details>
+    </div>
 
-<h4>Competitive eSports Athelete x Content Creator x Developer</h4>
+</div>
 
-- 🔭 I’m currently working on **NYX Roleplay**
-
-- 📫 How to reach me **kaveeshlakvindu@gmail.com**
-
-- ⚡ Fun fact **Nothing is true.Everything is permitted ♥️**
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaveeshlakvindu&theme=github_dark) 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kaveeshlakvindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveeshlakvindu" height="30" width="40" /></a>
-<a href="https://instagram.com/__mr.kl__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mr.kl__" height="30" width="40" /></a>
-<a href="https://www.behance.net/kaveeshlakvindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kaveeshlakvindu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrklofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrklofficial" height="30" width="40" /></a>
-<a href="https://discord.gg/4RSj6wk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4RSj6wk" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7BROGR)
+<hr />
+</br>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=aikonftw&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
+        width="130" /><br />
+</div>
