@@ -33,7 +33,7 @@
             <li> 👨🏻‍💻 I'm currently learning TypeScript ✍🏻</li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:aikon.creator@gmail.com" target="_blank">aikon.creator@gmail.com</a></li>
+                <a href="mailto:smnaikon@gmail.com" target="_blank">smnaikon@gmail.com</a></li>
         </ul>
     </div>
     <div>
