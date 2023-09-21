@@ -34,7 +34,6 @@
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:aikon.creator@gmail.com" target="_blank">aikon.creator@gmail.com</a></li>
-            <li>👀 Take a look at <a href="https://smnsanuth.in/" target="_blank">My Fiverr Profile</a></li>
         </ul>
     </div>
     <div>
