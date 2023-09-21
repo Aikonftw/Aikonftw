@@ -17,7 +17,7 @@
                 src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
         <a href="https://www.facebook.com/A1KONNN/"><img alt="FaceBook"
                 src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-        <a href="mailto:aikon.creator@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="mailto:smnaikon@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
         <a href="https://discord.gg/KV3RqUMezN" target="_blank"><img alt="Discord"
                 src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
